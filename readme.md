@@ -1,9 +1,9 @@
 # Code STM32 NUCLEO-F072RB without CubeIDE
-The goal of this repository is to setup a minimal project for programming the STM32 NUCLEO-F072RB microcontroller without using a pre-generated CubeIDE project or CubeIDE itself.
+The goal of this repository is an exercise to setup a minimal project for programming the STM32 NUCLEO-F072RB microcontroller without using a pre-generated CubeIDE project or CubeIDE itself.
 
 The microcontroller comes with a ST-LINK/v2(-1) programmer, which we interface using the OpenOCD tool.
 
-Setup follows very helpful [guide by kleinembedded](https://kleinembedded.com/stm32-without-cubeide-part-1-the-bare-necessities/#comment-37), which uses a Nucleo with Cortex-M4 (a little different to my Nucleo with a Cortex-M0).
+Setup follows very helpful [guide by kleinembedded](https://kleinembedded.com/stm32-without-cubeide-part-1-the-bare-necessities), which uses a Nucleo with Cortex-M4 (a little different to my Nucleo with a Cortex-M0).
 
 ## Setup
 Setup is done on Windows.
